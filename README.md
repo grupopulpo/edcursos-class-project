@@ -1,6 +1,6 @@
 # asistencia
 
-A new Flutter project.
+This app serves as a tool for teachers to have an attendance record in a easy way.
 
 ## Getting Started
 
